@@ -91,20 +91,3 @@ The Velocity Calculator with Maqueen & BBC micro:bit is a project that calculate
     ```
 
 2. This micro:bit controls the Maqueen robot, measuring initial and final distances, and calculates the velocity.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
-## Contact
-
-For any questions or suggestions, please contact [yourname@example.com](mailto:yourname@example.com).
-```
